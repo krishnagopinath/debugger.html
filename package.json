@@ -46,7 +46,7 @@
     "geckodriver": "^1.2.0",
     "glob": "^7.0.3",
     "husky": "^0.11.7",
-    "lodash": "^4.13.1",
+    "lodash": "4.17.2",
     "md5": "^2.2.1",
     "mocha": "^3.1.2",
     "mocha-circleci-reporter": "0.0.2",
